@@ -1,0 +1,6 @@
+1) Answer
+	Yes, ANSI recognize the datatype Date it is only used to store date values only.
+	'YYYY-MM-DD' 
+
+2) Answer
+	DML is used to modify data inside tables. It includes commands like: INSERT, UPDATE, 	DELETE.
