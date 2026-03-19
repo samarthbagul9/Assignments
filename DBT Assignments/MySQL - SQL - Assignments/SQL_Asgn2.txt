@@ -1,0 +1,13 @@
+1) Answer 
+	Cnum Filled is the primary key in Customers table.
+
+2) Answer
+	Rating is the 4th column in Customers table.
+
+3) Answer 
+	In DBMS row is know as Record, and column is known as field.
+	In RDBMS row is known as Row, Tuple, Entity, Opportunity and Column is known as 	Column, Attribute, Method.
+
+4) Answer
+	Because SQL tables are unordered, there is no defined “first” five rows unless you 	use ORDER BY to specify the order.
+	
