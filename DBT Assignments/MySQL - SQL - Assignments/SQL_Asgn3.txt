@@ -3,4 +3,4 @@
 	'YYYY-MM-DD' 
 
 2) Answer
-	DML is used to modify data inside tables. It includes commands like: INSERT, UPDATE, 	DELETE.
+	DML is used to modify data inside tables. It includes commands like: INSERT, UPDATE, DELETE.
